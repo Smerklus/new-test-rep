@@ -39,6 +39,7 @@ function humanReadable(seconds) {
 ```
 
 
+
 #Experience
 2 Year frontend development using Angular 2
 
